@@ -5,8 +5,8 @@ Working through Scrimba's Frontend Developer Career Path and applying what I lea
 
 The goals of this project are as follows:
 
-- Choose "seed color" with an <input> type of color.
-- Choose color scheme mode in a <select> box.
+- Choose "seed color" with an input type of color.
+- Choose color scheme mode in a select box.
 - Clicking button makes a request to the Color API to get a color scheme.
 - Display the scheme colors and hex values on the page.
 
